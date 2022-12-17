@@ -7,7 +7,7 @@
 4. Results are returned.
 
 # 2. Description
-A streamlit Dashboard app to calculate Diabetes.
+A streamlit Dashboard app to calculate Diabetes.<br/>
 Accuracy on test data - 81%.  <br/> Best Model - Logistic Regression.
 
 # 3.Input/ Output
